@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: home
 ---
-Hello World
+Hello world
