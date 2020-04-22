@@ -1,5 +1,9 @@
 title: "Tom Titcombe / An ML Journey"
-title_separator: "-"
-theme: jekyll-theme-cayman
-name: &name "Tom Titcombe"
-description: &description "Data Scientist. Previously MSc Machine Learning @ Imperial College London."
+theme: jekyll-theme-cayman-blog
+name: "Tom Titcombe"
+description: "A collection of thoughts on privacy, machine learning, data viz and data science."
+
+cayman-blog:
+  date_format: "%-d %b, %Y"
+
+author: "ttitcombe"
