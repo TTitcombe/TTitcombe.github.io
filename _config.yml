@@ -1,1 +1,5 @@
+title: "Tom Titcombe / An ML Journey"
+title_separator: "-"
 theme: jekyll-theme-cayman
+name: &name "Tom Titcombe"
+description: &description "Data Scientist. Previously MSc Machine Learning @ Imperial College London."
