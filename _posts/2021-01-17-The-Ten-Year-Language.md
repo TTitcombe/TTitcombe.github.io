@@ -171,7 +171,7 @@ and instead want to develop our own?
 What features might we want to implement to offer something new?
 To answer this,
 consider what uses have recently come fashionable
-but are yet underserver by existing languages.
+but are yet underserved by existing languages.
 
 The last ten years have been the age of machine learning,
 but very few languages offer useful solutions for implementing neural networks.
