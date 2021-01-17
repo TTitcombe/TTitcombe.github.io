@@ -2,7 +2,8 @@
 layout: post
 title: "The Ten-Year Language"
 ---
-I recently read the Paul Graham essay "The Hundred-Year Language",
+I recently read the Paul Graham essay
+["The Hundred-Year Language"][hundred-year],
 in which he envisions what the programming languages of the future
 will look like.
 While it makes for an interesting intellectual exercise,
@@ -48,10 +49,12 @@ for open-source software development
 because it is so approachable.
 More structured languages
 like C++
-can be so complex to even install,
+add so much over head that software
+written in it
+can be complex to even install,
 let alone navigate around the codebase,
-that contributing to a new open-source community
-can be an intimidating prospect.
+which can make contributing to a new open-source community
+an intimidating prospect.
 Open-source in Python has lead to the development
 of powerful,
 life-saving packages like NumPy,
@@ -223,3 +226,5 @@ in the short term.
 Signal has had a huge boost in membership
 due to a change
 in WhatsApp's data sharing policy
+
+[hundred-year]: http://www.paulgraham.com/hundred.html
