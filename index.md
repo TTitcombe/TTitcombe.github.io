@@ -1,4 +1,6 @@
 ---
 layout: home
 ---
-Hello world
+Data Scientist,
+Python developer,
+privacy enthusiast.
