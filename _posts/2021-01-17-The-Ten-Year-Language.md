@@ -217,8 +217,9 @@ for people adopt a new language
 in the short term.
 
 **Footnotes**
-1 - AFAIK, there is evidence to say it's slowing down but not enough to make a definitive statement
-2 - At time of writing (Jan 2021),
+
+1. AFAIK, there is evidence to say it's slowing down but not enough to make a definitive statement
+2. At time of writing (Jan 2021),
 Signal has had a huge boost in membership
 due to a change
 in WhatsApp's data sharing policy
