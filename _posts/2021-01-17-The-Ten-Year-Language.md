@@ -53,14 +53,15 @@ add so much over head that software
 written in it
 can be complex to even install,
 let alone navigate around the codebase,
-which can make contributing to a new open-source community
+which can make contributing to
+a new open-source community
 an intimidating prospect.
 Open-source in Python has lead to the development
-of powerful,
-life-saving packages like NumPy,
+of powerful libraries
+like NumPy,
 Matplotlib
 and Pandas.
-These packages form a hugely vibrant ecosystem
+These libraries form a hugely vibrant ecosystem
 that has attracted users to Python for all use-cases.
 The home of scientific computing,
 machine learning, statistics,
@@ -76,7 +77,7 @@ such as Rust and Go,
 about which I admittedly know very little,
 and I'm sure that each has proponents
 who could make a compelling case for why their particular pet language
-will be the one to dethrone the king
+will be the one to dethrone the king.
 But these languages solve different problems to Python.
 If our needs don't change,
 the only way to beat Python will be
@@ -166,7 +167,7 @@ If public demand for privacy comes quickly,
 we may be required to adopt faster languages in the short-term
 before hardware catches up.
 
-But what if we don't like any of these languages
+What if we don't like any of these languages
 and instead want to develop our own?
 What features might we want to implement to offer something new?
 To answer this,
@@ -198,16 +199,21 @@ from one location to another,
 as happens in federated learning,
 currently requires
 very clever,
-hacky code.
+hacky code
+as existing libraries were built
+for machine learning
+on a single computer.
 Having differentiable objects by default
 could markedly simplify
 the integration of machine learning into software
 and make federated learning as easy
 as on-device machine learning is today.
 
-While such a language is an interesting enough challenge to be made a reality,
+While a language with such features
+is an interesting enough challenge to be made a reality,
 I cannot see a demand for it great enough
-to overtake the likes of Python.
+to overtake the likes of Python
+anytime soon.
 In fact,
 I think on balance Python will remain
 the dominant language over the next decade.
