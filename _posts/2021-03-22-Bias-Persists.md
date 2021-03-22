@@ -28,7 +28,7 @@ The sentences assigned the female pronoun include
 "she washes the dishes",
 "she is raising a child".
 
-![Oof.](./images/bias.jpeg)
+![]({{ BASE_PATH }}/assets/images/bias.jpeg)
 
 You would be forgiven for thinking
 that I got the date wrong.
@@ -182,7 +182,7 @@ very well,
 multi-gendered
 output should be the default.
 
-![Big oof.](./images/bias-with-context.png)
+![]({{ BASE_PATH }}/assets/images/bias-with-context.png)
 
 The damning conclusion
 from this is not that bias in Translate exists,

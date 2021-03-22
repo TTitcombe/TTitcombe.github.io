@@ -7,3 +7,4 @@ cayman-blog:
   date_format: "%-d %b, %Y"
 
 author: "Tom Titcombe"
+BASE_PATH: /
