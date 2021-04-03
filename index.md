@@ -2,8 +2,6 @@
 layout: home
 ---
 
-## About Me
-
 Machine learning engineer / data scientist / dabbler in full-stack
 and iOS development.
 
@@ -19,32 +17,6 @@ enthusiast,
 working on developing
 [the future on machine learning][openmined]
 in my spare time.
-
-### I'm learning :book::
-
-- MERN stack
-- D3 (data viz tool)
-
-### I'm getting better at :seedling::
-
-- Swift
-- CoreML
-- React js
-- Differential privacy
-- Reinforcement learning
-
-### I'm pretty good at :star::
-
-- Python
-- Data science
-- Machine learning
-- Deep learning
-- MLOps
-- Federated learning
-- Good code
-  - Writing actually useful documentation
-  - git workflow
-  - Pull requests and code review
 
 ## Publications
 
